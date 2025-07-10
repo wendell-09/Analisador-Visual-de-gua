@@ -1,0 +1,5 @@
+{
+  "name": "Analisador Visual de Água",
+  "description": "Uma aplicação experimental que utiliza IA para fornecer uma análise visual de amostras de água a partir de uma foto. Estime a turbidez, a presença de algas e outros indicadores visuais.",
+  "requestFramePermissions": []
+}
